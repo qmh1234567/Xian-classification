@@ -8,7 +8,9 @@ src_pytorch_resnext101_32x8d | 线上代码，使用resnext101_32x8d模型
 test_20 | 网上找的测试数据，每类20张
 
 ### 参考项目
+- [华为云垃圾分类挑战杯亚军方案分享](https://github.com/ikkyu-wen/huawei-garbage)
 
+- [“华为云杯”2019人工智能创新应用大赛](https://github.com/wusaifei/HWCC_image_classification)
 
 ### 模型提交过程
 模型名称 | 主要内容  | 得分 
